@@ -1,0 +1,53 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\Debug\Prelaboratorio03.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Prelaboratorio03.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Prelaboratorio03.map</FILE>
+  <FILE>Prelaboratorio03.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INICIO><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>21</LINE></INICIO>
+  <ISR_PCINT><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>248</LINE></ISR_PCINT>
+  <ISR_TMR0><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>232</LINE></ISR_TMR0>
+  <T7S><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>28</LINE></T7S>
+  <SETUP><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>32</LINE></SETUP>
+  <MAIN><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>102</LINE></MAIN>
+  <INCREMENTO_DISPLAY><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>113</LINE></INCREMENTO_DISPLAY>
+  <ACTUALIZAR><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>125</LINE></ACTUALIZAR>
+  <WAIT_DISPLAY><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>213</LINE></WAIT_DISPLAY>
+  <INCREMENTAR><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>148</LINE></INCREMENTAR>
+  <DECREMENTAR><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>154</LINE></DECREMENTAR>
+  <WAIT><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>160</LINE></WAIT>
+  <WAIT1><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>162</LINE></WAIT1>
+  <WAIT2><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>167</LINE></WAIT2>
+  <WAIT3><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>172</LINE></WAIT3>
+  <WAIT4><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>177</LINE></WAIT4>
+  <WAIT5><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>182</LINE></WAIT5>
+  <WAIT6><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>187</LINE></WAIT6>
+  <WAIT7><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>192</LINE></WAIT7>
+  <WAIT8><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>197</LINE></WAIT8>
+  <WAIT9><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>202</LINE></WAIT9>
+  <WAIT10><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>207</LINE></WAIT10>
+  <WAIT1_D><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>215</LINE></WAIT1_D>
+  <WAIT2_D><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>217</LINE></WAIT2_D>
+  <WAIT3_D><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>219</LINE></WAIT3_D>
+  <SALIR><FILE>C:\Users\gerav\Documents\GitHub\Prelaboratorio03\Prelaboratorio03\main.asm</FILE><LINE>268</LINE></SALIR>
+ </LABELS>
+</ASSEMBLER_INFO>
